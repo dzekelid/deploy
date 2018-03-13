@@ -28,7 +28,7 @@ apis:
   tags: Deploy
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/deploy/master/_listings/apimetrics/deployments-workflow-workflow-id-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/deploy/master/_listings/apimetrics/deployments-id-delete.md
 x-common:
 - type: x-base-url
   url: https://client.apimetrics.io
