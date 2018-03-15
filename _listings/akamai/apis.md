@@ -20,8 +20,8 @@ tags:
 - Bots
 - Applications
 - API LIfeycle
-created: "2018-03-13"
-modified: "2018-03-13"
+created: "2018-03-15"
+modified: "2018-03-15"
 url: https://raw.githubusercontent.com/streamdata-gallery/deploy/master/_listings/akamai/apis.yaml
 specificationVersion: "0.14"
 apis:
@@ -33,7 +33,7 @@ apis:
   tags: Deploy
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/deploy/master/_listings/akamai/cps-v2-enrollments-enrollmentid-deployments-production-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/deploy/master/_listings/akamai/cps-v2-enrollments-enrollmentid-deploy-not-before,deploy-not-after,allow-cancel-pending-changes-put.md
 x-common:
 - type: x-base
   url: https://api.ccu.akamai.com
