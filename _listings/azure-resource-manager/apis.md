@@ -12,8 +12,8 @@ tags:
 - Microsoft
 - Links
 - Deployment
-created: "2018-03-13"
-modified: "2018-03-13"
+created: "2018-03-15"
+modified: "2018-03-15"
 url: https://raw.githubusercontent.com/streamdata-gallery/deploy/master/_listings/azure-resource-manager/apis.yaml
 specificationVersion: "0.14"
 apis:
@@ -26,7 +26,7 @@ apis:
   tags: Deploy
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/deploy/master/_listings/azure-resource-manager/subscriptions-subscriptionid-resourcegroups-resourcegroupname-deployments-deploymentname-operations-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/deploy/master/_listings/azure-resource-manager/subscriptions-subscriptionid-resourcegroups-resourcegroupname-providers-microsoft-resources-deployments-deploymentname-delete.md
 x-common:
 - type: x-website
   url: https://docs.microsoft.com/en-us/rest/api/resources/
