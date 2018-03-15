@@ -19,8 +19,8 @@ tags:
 - Gateway
 - Deployment
 - Amazon Web Services
-created: "2018-03-13"
-modified: "2018-03-13"
+created: "2018-03-15"
+modified: "2018-03-15"
 url: https://raw.githubusercontent.com/streamdata-gallery/deploy/master/_listings/aws-api-gateway/apis.yaml
 specificationVersion: "0.14"
 apis:
@@ -33,7 +33,7 @@ apis:
   tags: Deploy
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/deploy/master/_listings/aws-api-gateway/restapis-fugvjdxtri-deployments-limit-2-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/deploy/master/_listings/aws-api-gateway/restapis-fugvjdxtri-deployments-dzacq7-patch.md
 x-common:
 - type: x-documentation
   url: https://docs.aws.amazon.com/apigateway/api-reference/
