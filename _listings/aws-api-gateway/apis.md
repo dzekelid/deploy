@@ -33,7 +33,7 @@ apis:
   tags: Deploy
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/deploy/master/_listings/aws-api-gateway/restapis-fugvjdxtri-deployments-dzacq7-patch.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/deploy/master/_listings/aws-api-gateway/restapis-fugvjdxtri-deployments-dzacq7-delete.md
 x-common:
 - type: x-documentation
   url: https://docs.aws.amazon.com/apigateway/api-reference/
